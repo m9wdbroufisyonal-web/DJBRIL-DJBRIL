@@ -1,0 +1,7 @@
+{
+  "name": "طبيبي وشرعي - فاحص الطعام الذكي",
+  "description": "تطبيق جوال يفحص أي طعام أو مكونات بالكاميرا أو النص ويصنفها مباشرة إلى طيّب (مسموح) أو خبيث (ممنوع) أو مشبوه مع الدليل العلمي والشرعي",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
